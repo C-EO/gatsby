@@ -16,11 +16,11 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
 1.  **Create a Gatsby site.**
 
-    Use the Gatsby CLI ([install instructions](https://www.gatsbyjs.com/docs/tutorial/part-0/#gatsby-cli)) to create a new site, specifying the gatsby-starter-wordpress-blog starter.
+    Use the Gatsby CLI ([install instructions](https://www.gatsbyjs.com/docs/tutorial/getting-started/part-0/#gatsby-cli)) to create a new site, specifying the gatsby-starter-wordpress-blog starter.
 
     ```shell
     # create a new Gatsby site using the gatsby-starter-wordpress-blog starter
-    gatsby new my-gatsby-starter-wordpress-blog-starter https://github.com/gatsbyjs/gatsby-starter-gatsby-starter-wordpress-blog
+    gatsby new my-gatsby-starter-wordpress-blog-starter https://github.com/gatsbyjs/gatsby-starter-wordpress-blog
     ```
 
 1.  **Start developing.**
@@ -36,7 +36,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
     Your site is now running at `http://localhost:8000`!
 
-    Note: You'll also see a second link: `http://localhost:8000/___graphql`. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby Tutorial](https://www.gatsbyjs.com/docs/tutorial/part-4/#use-graphiql-to-explore-the-data-layer-and-write-graphql-queries).
+    Note: You'll also see a second link: `http://localhost:8000/___graphql`. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby Tutorial](https://www.gatsbyjs.com/docs/tutorial/getting-started/part-4/#use-graphiql-to-explore-the-data-layer-and-write-graphql-queries).
 
     Open the `my-gatsby-starter-wordpress-blog-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
 
@@ -44,7 +44,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
 Deploy this starter with one click on [Netlify](https://app.netlify.com/signup):
 
-[<img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" />](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-gatsby-starter-wordpress-blog)
+[<img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" />](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-wordpress-blog)
 
 ## 🧐 What's inside?
 
@@ -86,7 +86,7 @@ A quick look at the top-level files and directories you'll see in a typical Gats
 
 Looking for more guidance? Full documentation for Gatsby lives [on the website](https://www.gatsbyjs.com/). Here are some places to start:
 
-- **For most developers, we recommend starting with our [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.com/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
+- **For most developers, we recommend starting with our [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.com/docs/tutorial/getting-started/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
 
 - **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.com/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
 

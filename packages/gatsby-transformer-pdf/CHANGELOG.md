@@ -3,6 +3,54 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.14.0](https://github.com/gatsbyjs/gatsby/commits/gatsby-transformer-pdf@4.14.0/packages/gatsby-transformer-pdf) (2024-11-06)
+
+[🧾 Release notes](https://www.gatsbyjs.com/docs/reference/release-notes/v5.14)
+
+**Note:** Version bump only for package gatsby-transformer-pdf
+
+### [4.13.1](https://github.com/gatsbyjs/gatsby/commits/gatsby-transformer-pdf@4.13.1/packages/gatsby-transformer-pdf) (2024-01-23)
+
+**Note:** Version bump only for package gatsby-transformer-pdf
+
+## [4.13.0](https://github.com/gatsbyjs/gatsby/commits/gatsby-transformer-pdf@4.13.0/packages/gatsby-transformer-pdf) (2023-12-18)
+
+[🧾 Release notes](https://www.gatsbyjs.com/docs/reference/release-notes/v5.13)
+
+**Note:** Version bump only for package gatsby-transformer-pdf
+
+## [4.12.0](https://github.com/gatsbyjs/gatsby/commits/gatsby-transformer-pdf@4.12.0/packages/gatsby-transformer-pdf) (2023-08-24)
+
+[🧾 Release notes](https://www.gatsbyjs.com/docs/reference/release-notes/v5.12)
+
+**Note:** Version bump only for package gatsby-transformer-pdf
+
+## [4.11.0](https://github.com/gatsbyjs/gatsby/commits/gatsby-transformer-pdf@4.11.0/packages/gatsby-transformer-pdf) (2023-06-15)
+
+[🧾 Release notes](https://www.gatsbyjs.com/docs/reference/release-notes/v5.11)
+
+**Note:** Version bump only for package gatsby-transformer-pdf
+
+## [4.10.0](https://github.com/gatsbyjs/gatsby/commits/gatsby-transformer-pdf@4.10.0/packages/gatsby-transformer-pdf) (2023-05-16)
+
+[🧾 Release notes](https://www.gatsbyjs.com/docs/reference/release-notes/v5.10)
+
+**Note:** Version bump only for package gatsby-transformer-pdf
+
+## [4.9.0](https://github.com/gatsbyjs/gatsby/commits/gatsby-transformer-pdf@4.9.0/packages/gatsby-transformer-pdf) (2023-04-18)
+
+[🧾 Release notes](https://www.gatsbyjs.com/docs/reference/release-notes/v5.9)
+
+#### Bug Fixes
+
+- update dependency pdf2json to ^1.3.1 for gatsby-transformer-pdf [#37862](https://github.com/gatsbyjs/gatsby/issues/37862) ([ba56cbb](https://github.com/gatsbyjs/gatsby/commit/ba56cbbe5a09156337b39b3020b6557cd8c1bf4f))
+
+## [4.8.0](https://github.com/gatsbyjs/gatsby/commits/gatsby-transformer-pdf@4.8.0/packages/gatsby-transformer-pdf) (2023-03-21)
+
+[🧾 Release notes](https://www.gatsbyjs.com/docs/reference/release-notes/v5.8)
+
+**Note:** Version bump only for package gatsby-transformer-pdf
+
 ## [4.7.0](https://github.com/gatsbyjs/gatsby/commits/gatsby-transformer-pdf@4.7.0/packages/gatsby-transformer-pdf) (2023-02-21)
 
 [🧾 Release notes](https://www.gatsbyjs.com/docs/reference/release-notes/v5.7)
