@@ -3,6 +3,56 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.14.0](https://github.com/gatsbyjs/gatsby/commits/gatsby-source-mongodb@5.14.0/packages/gatsby-source-mongodb) (2024-11-06)
+
+[🧾 Release notes](https://www.gatsbyjs.com/docs/reference/release-notes/v5.14)
+
+**Note:** Version bump only for package gatsby-source-mongodb
+
+### [5.13.1](https://github.com/gatsbyjs/gatsby/commits/gatsby-source-mongodb@5.13.1/packages/gatsby-source-mongodb) (2024-01-23)
+
+**Note:** Version bump only for package gatsby-source-mongodb
+
+## [5.13.0](https://github.com/gatsbyjs/gatsby/commits/gatsby-source-mongodb@5.13.0/packages/gatsby-source-mongodb) (2023-12-18)
+
+[🧾 Release notes](https://www.gatsbyjs.com/docs/reference/release-notes/v5.13)
+
+**Note:** Version bump only for package gatsby-source-mongodb
+
+## [5.12.0](https://github.com/gatsbyjs/gatsby/commits/gatsby-source-mongodb@5.12.0/packages/gatsby-source-mongodb) (2023-08-24)
+
+[🧾 Release notes](https://www.gatsbyjs.com/docs/reference/release-notes/v5.12)
+
+#### Bug Fixes
+
+- update dependency mongodb to ^3.7.4 for gatsby-source-mongodb [#38294](https://github.com/gatsbyjs/gatsby/issues/38294) ([2cbd1e2](https://github.com/gatsbyjs/gatsby/commit/2cbd1e2fbb4c9e82345177e99e1b899202905838))
+
+## [5.11.0](https://github.com/gatsbyjs/gatsby/commits/gatsby-source-mongodb@5.11.0/packages/gatsby-source-mongodb) (2023-06-15)
+
+[🧾 Release notes](https://www.gatsbyjs.com/docs/reference/release-notes/v5.11)
+
+**Note:** Version bump only for package gatsby-source-mongodb
+
+## [5.10.0](https://github.com/gatsbyjs/gatsby/commits/gatsby-source-mongodb@5.10.0/packages/gatsby-source-mongodb) (2023-05-16)
+
+[🧾 Release notes](https://www.gatsbyjs.com/docs/reference/release-notes/v5.10)
+
+**Note:** Version bump only for package gatsby-source-mongodb
+
+## [5.9.0](https://github.com/gatsbyjs/gatsby/commits/gatsby-source-mongodb@5.9.0/packages/gatsby-source-mongodb) (2023-04-18)
+
+[🧾 Release notes](https://www.gatsbyjs.com/docs/reference/release-notes/v5.9)
+
+#### Bug Fixes
+
+- update dependency mongodb to ^3.7.3 for gatsby-source-mongodb [#37859](https://github.com/gatsbyjs/gatsby/issues/37859) ([a146069](https://github.com/gatsbyjs/gatsby/commit/a1460695471ea8677ec997fa74a0ba59ea7e7b3f))
+
+## [5.8.0](https://github.com/gatsbyjs/gatsby/commits/gatsby-source-mongodb@5.8.0/packages/gatsby-source-mongodb) (2023-03-21)
+
+[🧾 Release notes](https://www.gatsbyjs.com/docs/reference/release-notes/v5.8)
+
+**Note:** Version bump only for package gatsby-source-mongodb
+
 ## [5.7.0](https://github.com/gatsbyjs/gatsby/commits/gatsby-source-mongodb@5.7.0/packages/gatsby-source-mongodb) (2023-02-21)
 
 [🧾 Release notes](https://www.gatsbyjs.com/docs/reference/release-notes/v5.7)

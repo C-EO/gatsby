@@ -3,6 +3,68 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.14.0](https://github.com/gatsbyjs/gatsby/commits/gatsby-source-npm-package-search@5.14.0/packages/gatsby-source-npm-package-search) (2024-11-06)
+
+[🧾 Release notes](https://www.gatsbyjs.com/docs/reference/release-notes/v5.14)
+
+**Note:** Version bump only for package gatsby-source-npm-package-search
+
+### [5.13.1](https://github.com/gatsbyjs/gatsby/commits/gatsby-source-npm-package-search@5.13.1/packages/gatsby-source-npm-package-search) (2024-01-23)
+
+**Note:** Version bump only for package gatsby-source-npm-package-search
+
+## [5.13.0](https://github.com/gatsbyjs/gatsby/commits/gatsby-source-npm-package-search@5.13.0/packages/gatsby-source-npm-package-search) (2023-12-18)
+
+[🧾 Release notes](https://www.gatsbyjs.com/docs/reference/release-notes/v5.13)
+
+#### Chores
+
+- bespoke treatment for `plugin-gatsby-cloud` and `source-contentful` [#38619](https://github.com/gatsbyjs/gatsby/issues/38619) ([d44ada7](https://github.com/gatsbyjs/gatsby/commit/d44ada77c1a37ddc37410ba20d1dd351a2623482))
+
+### [5.12.1](https://github.com/gatsbyjs/gatsby/commits/gatsby-source-npm-package-search@5.12.1/packages/gatsby-source-npm-package-search) (2023-10-09)
+
+#### Chores
+
+- bespoke treatment for `plugin-gatsby-cloud` and `source-contentful` [#38619](https://github.com/gatsbyjs/gatsby/issues/38619) [#38622](https://github.com/gatsbyjs/gatsby/issues/38622) ([4dc464b](https://github.com/gatsbyjs/gatsby/commit/4dc464b40ab80af178175663202203ceb1641d4b))
+
+## [5.12.0](https://github.com/gatsbyjs/gatsby/commits/gatsby-source-npm-package-search@5.12.0/packages/gatsby-source-npm-package-search) (2023-08-24)
+
+[🧾 Release notes](https://www.gatsbyjs.com/docs/reference/release-notes/v5.12)
+
+#### Bug Fixes
+
+- update dependency algoliasearch to ^4.18.0 for gatsby-source-npm-package-search [#38308](https://github.com/gatsbyjs/gatsby/issues/38308) ([668aa5f](https://github.com/gatsbyjs/gatsby/commit/668aa5f66eff422cea3efca8d334007c35e95eb2))
+
+## [5.11.0](https://github.com/gatsbyjs/gatsby/commits/gatsby-source-npm-package-search@5.11.0/packages/gatsby-source-npm-package-search) (2023-06-15)
+
+[🧾 Release notes](https://www.gatsbyjs.com/docs/reference/release-notes/v5.11)
+
+#### Bug Fixes
+
+- update dependency algoliasearch to ^4.17.1 for gatsby-source-npm-package-search [#38149](https://github.com/gatsbyjs/gatsby/issues/38149) ([6ee78db](https://github.com/gatsbyjs/gatsby/commit/6ee78dbdb9ce8a770ee0d8d0f6d19abb4fe19d09))
+
+## [5.10.0](https://github.com/gatsbyjs/gatsby/commits/gatsby-source-npm-package-search@5.10.0/packages/gatsby-source-npm-package-search) (2023-05-16)
+
+[🧾 Release notes](https://www.gatsbyjs.com/docs/reference/release-notes/v5.10)
+
+#### Bug Fixes
+
+- update dependency algoliasearch to ^4.17.0 for gatsby-source-npm-package-search [#38016](https://github.com/gatsbyjs/gatsby/issues/38016) ([fdc3d91](https://github.com/gatsbyjs/gatsby/commit/fdc3d918712fa119a6c155af0a8956285e0f5e83))
+
+## [5.9.0](https://github.com/gatsbyjs/gatsby/commits/gatsby-source-npm-package-search@5.9.0/packages/gatsby-source-npm-package-search) (2023-04-18)
+
+[🧾 Release notes](https://www.gatsbyjs.com/docs/reference/release-notes/v5.9)
+
+#### Bug Fixes
+
+- update minor and patch dependencies for gatsby-source-npm-package-search [#37877](https://github.com/gatsbyjs/gatsby/issues/37877) ([f317b26](https://github.com/gatsbyjs/gatsby/commit/f317b2698ef9c7308f8b2ab4e64f43acf8ac9579))
+
+## [5.8.0](https://github.com/gatsbyjs/gatsby/commits/gatsby-source-npm-package-search@5.8.0/packages/gatsby-source-npm-package-search) (2023-03-21)
+
+[🧾 Release notes](https://www.gatsbyjs.com/docs/reference/release-notes/v5.8)
+
+**Note:** Version bump only for package gatsby-source-npm-package-search
+
 ## [5.7.0](https://github.com/gatsbyjs/gatsby/commits/gatsby-source-npm-package-search@5.7.0/packages/gatsby-source-npm-package-search) (2023-02-21)
 
 [🧾 Release notes](https://www.gatsbyjs.com/docs/reference/release-notes/v5.7)

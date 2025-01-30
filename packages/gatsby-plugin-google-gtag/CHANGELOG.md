@@ -3,6 +3,66 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.14.0](https://github.com/gatsbyjs/gatsby/commits/gatsby-plugin-google-gtag@5.14.0/packages/gatsby-plugin-google-gtag) (2024-11-06)
+
+[🧾 Release notes](https://www.gatsbyjs.com/docs/reference/release-notes/v5.14)
+
+**Note:** Version bump only for package gatsby-plugin-google-gtag
+
+### [5.13.1](https://github.com/gatsbyjs/gatsby/commits/gatsby-plugin-google-gtag@5.13.1/packages/gatsby-plugin-google-gtag) (2024-01-23)
+
+**Note:** Version bump only for package gatsby-plugin-google-gtag
+
+## [5.13.0](https://github.com/gatsbyjs/gatsby/commits/gatsby-plugin-google-gtag@5.13.0/packages/gatsby-plugin-google-gtag) (2023-12-18)
+
+[🧾 Release notes](https://www.gatsbyjs.com/docs/reference/release-notes/v5.13)
+
+**Note:** Version bump only for package gatsby-plugin-google-gtag
+
+### [5.12.3](https://github.com/gatsbyjs/gatsby/commits/gatsby-plugin-google-gtag@5.12.3/packages/gatsby-plugin-google-gtag) (2023-10-26)
+
+**Note:** Version bump only for package gatsby-plugin-google-gtag
+
+### [5.12.2](https://github.com/gatsbyjs/gatsby/commits/gatsby-plugin-google-gtag@5.12.2/packages/gatsby-plugin-google-gtag) (2023-10-20)
+
+**Note:** Version bump only for package gatsby-plugin-google-gtag
+
+### [5.12.1](https://github.com/gatsbyjs/gatsby/commits/gatsby-plugin-google-gtag@5.12.1/packages/gatsby-plugin-google-gtag) (2023-10-09)
+
+**Note:** Version bump only for package gatsby-plugin-google-gtag
+
+## [5.12.0](https://github.com/gatsbyjs/gatsby/commits/gatsby-plugin-google-gtag@5.12.0/packages/gatsby-plugin-google-gtag) (2023-08-24)
+
+[🧾 Release notes](https://www.gatsbyjs.com/docs/reference/release-notes/v5.12)
+
+**Note:** Version bump only for package gatsby-plugin-google-gtag
+
+## [5.11.0](https://github.com/gatsbyjs/gatsby/commits/gatsby-plugin-google-gtag@5.11.0/packages/gatsby-plugin-google-gtag) (2023-06-15)
+
+[🧾 Release notes](https://www.gatsbyjs.com/docs/reference/release-notes/v5.11)
+
+**Note:** Version bump only for package gatsby-plugin-google-gtag
+
+## [5.10.0](https://github.com/gatsbyjs/gatsby/commits/gatsby-plugin-google-gtag@5.10.0/packages/gatsby-plugin-google-gtag) (2023-05-16)
+
+[🧾 Release notes](https://www.gatsbyjs.com/docs/reference/release-notes/v5.10)
+
+**Note:** Version bump only for package gatsby-plugin-google-gtag
+
+## [5.9.0](https://github.com/gatsbyjs/gatsby/commits/gatsby-plugin-google-gtag@5.9.0/packages/gatsby-plugin-google-gtag) (2023-04-18)
+
+[🧾 Release notes](https://www.gatsbyjs.com/docs/reference/release-notes/v5.9)
+
+#### Bug Fixes
+
+- Add plugin options [#37953](https://github.com/gatsbyjs/gatsby/issues/37953) ([c1f0bbf](https://github.com/gatsbyjs/gatsby/commit/c1f0bbfb3e74c12bbcf0413783d0b30975fdfc6a))
+
+## [5.8.0](https://github.com/gatsbyjs/gatsby/commits/gatsby-plugin-google-gtag@5.8.0/packages/gatsby-plugin-google-gtag) (2023-03-21)
+
+[🧾 Release notes](https://www.gatsbyjs.com/docs/reference/release-notes/v5.8)
+
+**Note:** Version bump only for package gatsby-plugin-google-gtag
+
 ## [5.7.0](https://github.com/gatsbyjs/gatsby/commits/gatsby-plugin-google-gtag@5.7.0/packages/gatsby-plugin-google-gtag) (2023-02-21)
 
 [🧾 Release notes](https://www.gatsbyjs.com/docs/reference/release-notes/v5.7)
